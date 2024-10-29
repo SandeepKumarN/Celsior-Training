@@ -1,0 +1,921 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D77B3FF-0063-4BF9-9896-06FB87D0264D}|EFCoreTest\\EFCoreTest.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcoretest\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77B3FF-0063-4BF9-9896-06FB87D0264D}|EFCoreTest\\EFCoreTest.csproj|solutionrelative:efcoretest\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D77B3FF-0063-4BF9-9896-06FB87D0264D}|EFCoreTest\\EFCoreTest.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcoretest\\userrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77B3FF-0063-4BF9-9896-06FB87D0264D}|EFCoreTest\\EFCoreTest.csproj|solutionrelative:efcoretest\\userrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D77B3FF-0063-4BF9-9896-06FB87D0264D}|EFCoreTest\\EFCoreTest.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcoretest\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77B3FF-0063-4BF9-9896-06FB87D0264D}|EFCoreTest\\EFCoreTest.csproj|solutionrelative:efcoretest\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D77B3FF-0063-4BF9-9896-06FB87D0264D}|EFCoreTest\\EFCoreTest.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcoretest\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77B3FF-0063-4BF9-9896-06FB87D0264D}|EFCoreTest\\EFCoreTest.csproj|solutionrelative:efcoretest\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D77B3FF-0063-4BF9-9896-06FB87D0264D}|EFCoreTest\\EFCoreTest.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcoretest\\usercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77B3FF-0063-4BF9-9896-06FB87D0264D}|EFCoreTest\\EFCoreTest.csproj|solutionrelative:efcoretest\\usercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D77B3FF-0063-4BF9-9896-06FB87D0264D}|EFCoreTest\\EFCoreTest.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcoretest\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77B3FF-0063-4BF9-9896-06FB87D0264D}|EFCoreTest\\EFCoreTest.csproj|solutionrelative:efcoretest\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D77B3FF-0063-4BF9-9896-06FB87D0264D}|EFCoreTest\\EFCoreTest.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcoretest\\productservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D77B3FF-0063-4BF9-9896-06FB87D0264D}|EFCoreTest\\EFCoreTest.csproj|solutionrelative:efcoretest\\productservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\misc\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\misc\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\misc\\usernamevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\misc\\usernamevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\models\\dtos\\usertokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\dtos\\usertokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\models\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\models\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\interfaces\\icustomerbasicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\interfaces\\icustomerbasicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\services\\customerbasicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\services\\customerbasicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\interfaces\\icalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\interfaces\\icalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\services\\calculateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\services\\calculateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\models\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\contexts\\shoppingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\contexts\\shoppingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\models\\dtos\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\dtos\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D77B3FF-0063-4BF9-9896-06FB87D0264D}|EFCoreTest\\EFCoreTest.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcoretest\\efcoretest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4D77B3FF-0063-4BF9-9896-06FB87D0264D}|EFCoreTest\\EFCoreTest.csproj|solutionrelative:efcoretest\\efcoretest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\mapper\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\mapper\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\mapper\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\mapper\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\exceptions\\collectionemptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\exceptions\\collectionemptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\exceptions\\couldnotaddexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\exceptions\\couldnotaddexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\efcorefirstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\efcorefirstapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\migrations\\20241016054448_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\migrations\\20241016054448_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\migrations\\20241022100524_removecustomerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\migrations\\20241022100524_removecustomerid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efcorefirstapi\\efcorefirstapi\\migrations\\20241022053613_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8485081-DE97-40BE-932E-F2CF42D34BD3}|EFCoreFirstAPI\\EFCoreFirstAPI.csproj|solutionrelative:efcorefirstapi\\migrations\\20241022053613_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreTest\\ProductServiceTest.cs",
+              "RelativeDocumentMoniker": "EFCoreTest\\ProductServiceTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreTest\\ProductServiceTest.cs",
+              "RelativeToolTip": "EFCoreTest\\ProductServiceTest.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAqwD0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:35:52.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\appsettings.json",
+              "RelativeToolTip": "EFCoreFirstAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T05:26:52.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:15:16.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Services\\TokenService.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Services\\TokenService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:23:57.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Services\\ProductService.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:31:17.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:14:20.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreTest\\ProductControllerTest.cs",
+              "RelativeDocumentMoniker": "EFCoreTest\\ProductControllerTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreTest\\ProductControllerTest.cs",
+              "RelativeToolTip": "EFCoreTest\\ProductControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:33:56.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreTest\\UserControllerTest.cs",
+              "RelativeDocumentMoniker": "EFCoreTest\\UserControllerTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreTest\\UserControllerTest.cs",
+              "RelativeToolTip": "EFCoreTest\\UserControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:53:55.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CalculatorTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreTest\\CalculatorTest.cs",
+              "RelativeDocumentMoniker": "EFCoreTest\\CalculatorTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreTest\\CalculatorTest.cs",
+              "RelativeToolTip": "EFCoreTest\\CalculatorTest.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:32:54.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreTest\\UserServiceTest.cs",
+              "RelativeDocumentMoniker": "EFCoreTest\\UserServiceTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreTest\\UserServiceTest.cs",
+              "RelativeToolTip": "EFCoreTest\\UserServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:01:52.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreTest\\UserRepositoryTest.cs",
+              "RelativeDocumentMoniker": "EFCoreTest\\UserRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreTest\\UserRepositoryTest.cs",
+              "RelativeToolTip": "EFCoreTest\\UserRepositoryTest.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:14:11.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreTest\\ProductRepositoryTest.cs",
+              "RelativeDocumentMoniker": "EFCoreTest\\ProductRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreTest\\ProductRepositoryTest.cs",
+              "RelativeToolTip": "EFCoreTest\\ProductRepositoryTest.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:28:28.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Program.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:42:16.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwBkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:22:39.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Misc\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Misc\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Misc\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Misc\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T05:14:09.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsernameValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Misc\\UsernameValidator.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Misc\\UsernameValidator.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Misc\\UsernameValidator.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Misc\\UsernameValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T05:00:27.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\User.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:47:36.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Services\\UserService.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:26:21.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:05:22.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserTokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\DTOs\\UserTokenDTO.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\DTOs\\UserTokenDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\DTOs\\UserTokenDTO.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\DTOs\\UserTokenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:18:20.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\DTOs\\UserCreateDTO.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\DTOs\\UserCreateDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\DTOs\\UserCreateDTO.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\DTOs\\UserCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:47:22.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T05:17:27.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T06:24:52.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\DTOs\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\DTOs\\LoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\DTOs\\LoginResponseDTO.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\DTOs\\LoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:49:08.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\DTOs\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\DTOs\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:11:20.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\Product.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:41:48.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:32:33.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICustomerBasicService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Interfaces\\ICustomerBasicService.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Interfaces\\ICustomerBasicService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Interfaces\\ICustomerBasicService.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Interfaces\\ICustomerBasicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:10:11.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CustomerBasicService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Services\\CustomerBasicService.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Services\\CustomerBasicService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Services\\CustomerBasicService.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Services\\CustomerBasicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:57:12.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ICalculate.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Interfaces\\ICalculate.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Interfaces\\ICalculate.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Interfaces\\ICalculate.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Interfaces\\ICalculate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:08:22.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CalculateService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Services\\CalculateService.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Services\\CalculateService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Services\\CalculateService.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Services\\CalculateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:09:25.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:33:15.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:16:14.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\DTOs\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\DTOs\\CustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T06:59:14.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ShoppingContext.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Contexts\\ShoppingContext.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Contexts\\ShoppingContext.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Contexts\\ShoppingContext.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Contexts\\ShoppingContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:57:50.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T07:24:43.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ErrorResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\DTOs\\ErrorResponseDTO.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\DTOs\\ErrorResponseDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\DTOs\\ErrorResponseDTO.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\DTOs\\ErrorResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:50:05.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\Order.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:41:02.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:41:24.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EFCoreTest.csproj",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreTest\\EFCoreTest.csproj",
+              "RelativeDocumentMoniker": "EFCoreTest\\EFCoreTest.csproj",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreTest\\EFCoreTest.csproj",
+              "RelativeToolTip": "EFCoreTest\\EFCoreTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-17T06:27:23.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CustomerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Mapper\\CustomerProfile.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Mapper\\CustomerProfile.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Mapper\\CustomerProfile.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Mapper\\CustomerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:10:13.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Mapper\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Mapper\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Mapper\\ProductProfile.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Mapper\\ProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T09:23:44.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CollectionEmptyException.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Exceptions\\CollectionEmptyException.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Exceptions\\CollectionEmptyException.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Exceptions\\CollectionEmptyException.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Exceptions\\CollectionEmptyException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:03:07.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:03:43.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CouldNotAddException.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Exceptions\\CouldNotAddException.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Exceptions\\CouldNotAddException.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Exceptions\\CouldNotAddException.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Exceptions\\CouldNotAddException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:03:31.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:20:27.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\Cart.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:39:49.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20241022100524_removecustomerid.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Migrations\\20241022100524_removecustomerid.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Migrations\\20241022100524_removecustomerid.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Migrations\\20241022100524_removecustomerid.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Migrations\\20241022100524_removecustomerid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:05:24.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:40:35.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20241022053613_User.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Migrations\\20241022053613_User.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Migrations\\20241022053613_User.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Migrations\\20241022053613_User.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Migrations\\20241022053613_User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T05:36:14.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20241016054448_init.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Migrations\\20241016054448_init.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Migrations\\20241016054448_init.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Migrations\\20241016054448_init.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Migrations\\20241016054448_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T05:44:48.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\Models\\CartItem.cs",
+              "RelativeToolTip": "EFCoreFirstAPI\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T04:40:18.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "EFCoreFirstAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\EFCoreFirstAPI.csproj",
+              "RelativeDocumentMoniker": "EFCoreFirstAPI\\EFCoreFirstAPI.csproj",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFCoreFirstAPI\\EFCoreFirstAPI\\EFCoreFirstAPI.csproj",
+              "RelativeToolTip": "EFCoreFirstAPI\\EFCoreFirstAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T04:37:39.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

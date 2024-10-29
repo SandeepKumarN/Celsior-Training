@@ -1,0 +1,406 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\services\\customerbasicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\services\\customerbasicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\migrations\\20241016155736_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\migrations\\20241016155736_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\properties\\contexts\\shoppingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\properties\\contexts\\shoppingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\repositories\\productimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\repositories\\productimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\models\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\models\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\mappers\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\mappers\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\controllers\\productimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\controllers\\productimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\exception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\exception\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\exception\\couldnotaddexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\exception\\couldnotaddexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|c:\\users\\sandeep.kumar\\source\\repos\\efapiproj\\efapiproj\\exception\\collectionemptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E59521CD-6AAA-4F31-9A12-9D88C5B41FF8}|EFAPIProj\\EFAPIProj.csproj|solutionrelative:efapiproj\\exception\\collectionemptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "EFAPIProj\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:01:43.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingContext.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Properties\\Contexts\\ShoppingContext.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Properties\\Contexts\\ShoppingContext.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Properties\\Contexts\\ShoppingContext.cs",
+              "RelativeToolTip": "EFAPIProj\\Properties\\Contexts\\ShoppingContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:15:32.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20241016155736_init.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Migrations\\20241016155736_init.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Migrations\\20241016155736_init.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Migrations\\20241016155736_init.cs",
+              "RelativeToolTip": "EFAPIProj\\Migrations\\20241016155736_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:57:37.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "EFAPIProj\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:12:05.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerBasicService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Services\\CustomerBasicService.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Services\\CustomerBasicService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Services\\CustomerBasicService.cs",
+              "RelativeToolTip": "EFAPIProj\\Services\\CustomerBasicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:02:43.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Program.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Program.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Program.cs",
+              "RelativeToolTip": "EFAPIProj\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:37:27.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\appsettings.json",
+              "RelativeDocumentMoniker": "EFAPIProj\\appsettings.json",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\appsettings.json",
+              "RelativeToolTip": "EFAPIProj\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T14:39:13.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "EFAPIProj\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:14:03.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Repositories\\ProductImageRepository.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Repositories\\ProductImageRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Repositories\\ProductImageRepository.cs",
+              "RelativeToolTip": "EFAPIProj\\Repositories\\ProductImageRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:12:27.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Models\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Models\\DTOs\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Models\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "EFAPIProj\\Models\\DTOs\\CustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:14:31.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Mappers\\CustomerProfile.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Mappers\\CustomerProfile.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Mappers\\CustomerProfile.cs",
+              "RelativeToolTip": "EFAPIProj\\Mappers\\CustomerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:15:14.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductImageController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Controllers\\ProductImageController.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Controllers\\ProductImageController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Controllers\\ProductImageController.cs",
+              "RelativeToolTip": "EFAPIProj\\Controllers\\ProductImageController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:09:51.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EFAPIProj\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:08:28.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "EFAPIProj\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:51:41.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Models\\ProductImage.cs",
+              "RelativeToolTip": "EFAPIProj\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:39:45.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Models\\Product.cs",
+              "RelativeToolTip": "EFAPIProj\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA2wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T10:39:24.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "EFAPIProj\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA6wBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:09:03.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Models\\Order.cs",
+              "RelativeToolTip": "EFAPIProj\\Models\\Order.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:08:24.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Models\\Customer.cs",
+              "RelativeToolTip": "EFAPIProj\\Models\\Customer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA6wBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:07:55.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Models\\CartItem.cs",
+              "RelativeToolTip": "EFAPIProj\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:09:44.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Models\\Cart.cs",
+              "RelativeToolTip": "EFAPIProj\\Models\\Cart.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T14:09:25.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Exception\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Exception\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Exception\\NotFoundException.cs",
+              "RelativeToolTip": "EFAPIProj\\Exception\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:26:37.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CouldNotAddException.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Exception\\CouldNotAddException.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Exception\\CouldNotAddException.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Exception\\CouldNotAddException.cs",
+              "RelativeToolTip": "EFAPIProj\\Exception\\CouldNotAddException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:26:15.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CollectionEmptyException.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Exception\\CollectionEmptyException.cs",
+              "RelativeDocumentMoniker": "EFAPIProj\\Exception\\CollectionEmptyException.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFAPIProj\\EFAPIProj\\Exception\\CollectionEmptyException.cs",
+              "RelativeToolTip": "EFAPIProj\\Exception\\CollectionEmptyException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:27:01.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
