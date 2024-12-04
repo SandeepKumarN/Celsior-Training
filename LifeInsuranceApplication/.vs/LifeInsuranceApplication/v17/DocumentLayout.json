@@ -1,0 +1,1074 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\services\\policyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\services\\policyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\services\\claimtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\services\\claimtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\services\\claimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\services\\claimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\repositories\\policyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\repositories\\policyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\repositories\\claimtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\repositories\\claimtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\repositories\\claimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\repositories\\claimrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\models\\dto\\usertokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\models\\dto\\usertokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\models\\dto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\models\\dto\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\models\\dto\\updatestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\models\\dto\\updatestatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\models\\dto\\policydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\models\\dto\\policydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\models\\dto\\claimtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\models\\dto\\claimtypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\models\\dto\\claimdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\models\\dto\\claimdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\models\\responsenewcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\models\\responsenewcreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\models\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\models\\policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\models\\claimtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\models\\claimtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\misc\\usernamevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\misc\\usernamevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\misc\\filerequiredattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\misc\\filerequiredattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\misc\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\misc\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\misc\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\misc\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\mapper\\policyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\mapper\\policyprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\mapper\\claimtypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\mapper\\claimtypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\mapper\\claimprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\mapper\\claimprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\interfaces\\ipolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\interfaces\\ipolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\interfaces\\iclaimtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\interfaces\\iclaimtypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\interfaces\\iclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\interfaces\\iclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\exceptions\\couldnotaddexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\exceptions\\couldnotaddexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\exceptions\\collectionemptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\exceptions\\collectionemptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\controllers\\claimtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\controllers\\claimtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\controllers\\claimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\controllers\\claimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\contexts\\insurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\contexts\\insurancecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241029150232_policys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LifeInsuranceApplication\\Migrations\\20241029150232_policys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsurancetests\\policyrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|solutionrelative:lifeinsurancetests\\policyrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsurancetests\\policyservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|solutionrelative:lifeinsurancetests\\policyservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsurancetests\\policycontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|solutionrelative:lifeinsurancetests\\policycontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsurancetests\\claimtypesevicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|solutionrelative:lifeinsurancetests\\claimtypesevicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsurancetests\\claimtyperepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|solutionrelative:lifeinsurancetests\\claimtyperepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsurancetests\\claimtypecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|solutionrelative:lifeinsurancetests\\claimtypecontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsurancetests\\claimservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|solutionrelative:lifeinsurancetests\\claimservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsurancetests\\claimrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|solutionrelative:lifeinsurancetests\\claimrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsurancetests\\claimcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|solutionrelative:lifeinsurancetests\\claimcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\migrations\\20241023060209_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\migrations\\20241023060209_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsurancetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|solutionrelative:lifeinsurancetests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsurancetests\\lifeinsurancetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F5E1BF1-C98D-4431-B079-7D6030C17EB0}|LifeInsuranceTests\\LifeInsuranceTests.csproj|solutionrelative:lifeinsurancetests\\lifeinsurancetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\migrations\\20241023151239_policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\migrations\\20241023151239_policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\lifeinsuranceapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\lifeinsuranceapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\migrations\\20241023150508_claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\migrations\\20241023150508_claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\migrations\\20241023100555_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\migrations\\20241023100555_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|c:\\users\\sandeep.kumar\\source\\repos\\lifeinsuranceapplication\\lifeinsuranceapplication\\migrations\\20241028110931_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDB8955A-71BB-4844-8556-9B0AD51A60BA}|LifeInsuranceApplication\\LifeInsuranceApplication.csproj|solutionrelative:lifeinsuranceapplication\\migrations\\20241028110931_users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClaimService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Services\\ClaimService.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Services\\ClaimService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Services\\ClaimService.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Services\\ClaimService.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:32:27.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClaimTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Services\\ClaimTypeService.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Services\\ClaimTypeService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Services\\ClaimTypeService.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Services\\ClaimTypeService.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:32:41.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PolicyService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Services\\PolicyService.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Services\\PolicyService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Services\\PolicyService.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Services\\PolicyService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:32:10.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Services\\TokenService.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Services\\TokenService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:55:41.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Services\\UserService.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Services\\UserService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAswFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:55:56.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\appsettings.json",
+              "RelativeToolTip": "LifeInsuranceApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T05:07:36.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Program.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Program.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Program.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAswIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:59:19.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAswHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:51:10.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PolicyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Repositories\\PolicyRepository.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Repositories\\PolicyRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Repositories\\PolicyRepository.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Repositories\\PolicyRepository.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAswGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:49:46.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClaimTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Repositories\\ClaimTypeRepository.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Repositories\\ClaimTypeRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Repositories\\ClaimTypeRepository.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Repositories\\ClaimTypeRepository.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:50:08.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClaimRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Repositories\\ClaimRepository.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Repositories\\ClaimRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Repositories\\ClaimRepository.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Repositories\\ClaimRepository.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAkwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:49:28.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserTokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\DTO\\UserTokenDTO.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Models\\DTO\\UserTokenDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\DTO\\UserTokenDTO.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Models\\DTO\\UserTokenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:34:08.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\DTO\\UserCreateDTO.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Models\\DTO\\UserCreateDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\DTO\\UserCreateDTO.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Models\\DTO\\UserCreateDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:45:04.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateStatusDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\DTO\\UpdateStatusDTO.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Models\\DTO\\UpdateStatusDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\DTO\\UpdateStatusDTO.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Models\\DTO\\UpdateStatusDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T08:06:11.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PolicyDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\DTO\\PolicyDTO.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Models\\DTO\\PolicyDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\DTO\\PolicyDTO.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Models\\DTO\\PolicyDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:43:25.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\DTO\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Models\\DTO\\LoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\DTO\\LoginResponseDTO.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Models\\DTO\\LoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:28:36.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\DTO\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Models\\DTO\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\DTO\\LoginRequestDTO.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Models\\DTO\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:28:58.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClaimTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\DTO\\ClaimTypeDTO.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Models\\DTO\\ClaimTypeDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\DTO\\ClaimTypeDTO.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Models\\DTO\\ClaimTypeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:43:57.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClaimDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\DTO\\ClaimDTO.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Models\\DTO\\ClaimDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\DTO\\ClaimDTO.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Models\\DTO\\ClaimDTO.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:43:41.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\User.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Models\\User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:31:55.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ResponseNewCreated.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\ResponseNewCreated.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Models\\ResponseNewCreated.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\ResponseNewCreated.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Models\\ResponseNewCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:32:44.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Policy.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\Policy.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Models\\Policy.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\Policy.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Models\\Policy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:56:37.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClaimType.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\ClaimType.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Models\\ClaimType.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\ClaimType.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Models\\ClaimType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:09:39.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Models\\Claim.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Models\\Claim.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:05:30.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UsernameValidator.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Misc\\UsernameValidator.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Misc\\UsernameValidator.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Misc\\UsernameValidator.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Misc\\UsernameValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA7wBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:17:25.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FileRequiredAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Misc\\FileRequiredAttribute.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Misc\\FileRequiredAttribute.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Misc\\FileRequiredAttribute.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Misc\\FileRequiredAttribute.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T14:58:34.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ErrorResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Misc\\ErrorResponseDTO.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Misc\\ErrorResponseDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Misc\\ErrorResponseDTO.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Misc\\ErrorResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:16:51.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Misc\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Misc\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Misc\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Misc\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T15:34:47.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PolicyProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Mapper\\PolicyProfile.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Mapper\\PolicyProfile.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Mapper\\PolicyProfile.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Mapper\\PolicyProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T07:04:45.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ClaimTypeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Mapper\\ClaimTypeProfile.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Mapper\\ClaimTypeProfile.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Mapper\\ClaimTypeProfile.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Mapper\\ClaimTypeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:49:07.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ClaimProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Mapper\\ClaimProfile.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Mapper\\ClaimProfile.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Mapper\\ClaimProfile.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Mapper\\ClaimProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:49:21.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:43:26.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:46:52.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T04:51:14.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IPolicyService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Interfaces\\IPolicyService.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Interfaces\\IPolicyService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Interfaces\\IPolicyService.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Interfaces\\IPolicyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:33:05.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IClaimTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Interfaces\\IClaimTypeService.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Interfaces\\IClaimTypeService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Interfaces\\IClaimTypeService.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Interfaces\\IClaimTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:33:40.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IClaimService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Interfaces\\IClaimService.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Interfaces\\IClaimService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Interfaces\\IClaimService.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Interfaces\\IClaimService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:33:21.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:17:54.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CouldNotAddException.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Exceptions\\CouldNotAddException.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Exceptions\\CouldNotAddException.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Exceptions\\CouldNotAddException.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Exceptions\\CouldNotAddException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:17:14.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CollectionEmptyException.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Exceptions\\CollectionEmptyException.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Exceptions\\CollectionEmptyException.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Exceptions\\CollectionEmptyException.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Exceptions\\CollectionEmptyException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:18:20.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA7wEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T10:49:17.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PolicyController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Controllers\\PolicyController.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Controllers\\PolicyController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Controllers\\PolicyController.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Controllers\\PolicyController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:34:10.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ClaimTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Controllers\\ClaimTypeController.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Controllers\\ClaimTypeController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Controllers\\ClaimTypeController.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Controllers\\ClaimTypeController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:34:50.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ClaimController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Controllers\\ClaimController.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Controllers\\ClaimController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Controllers\\ClaimController.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Controllers\\ClaimController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAkwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:34:28.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "InsuranceContext.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Contexts\\InsuranceContext.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Contexts\\InsuranceContext.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Contexts\\InsuranceContext.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Contexts\\InsuranceContext.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T05:27:02.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20241029150232_policys.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241029150232_policys.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Migrations\\20241029150232_policys.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241029150232_policys.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Migrations\\20241029150232_policys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T15:02:32.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "PolicyRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\PolicyRepositoryTest.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceTests\\PolicyRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\PolicyRepositoryTest.cs",
+              "RelativeToolTip": "LifeInsuranceTests\\PolicyRepositoryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:03:50.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20241028110931_users.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241028110931_users.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Migrations\\20241028110931_users.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241028110931_users.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Migrations\\20241028110931_users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:09:31.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PolicyServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\PolicyServiceTest.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceTests\\PolicyServiceTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\PolicyServiceTest.cs",
+              "RelativeToolTip": "LifeInsuranceTests\\PolicyServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:17:06.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PolicyControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\PolicyControllerTest.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceTests\\PolicyControllerTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\PolicyControllerTest.cs",
+              "RelativeToolTip": "LifeInsuranceTests\\PolicyControllerTest.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T05:45:42.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ClaimTypeSeviceTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\ClaimTypeSeviceTest.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceTests\\ClaimTypeSeviceTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\ClaimTypeSeviceTest.cs",
+              "RelativeToolTip": "LifeInsuranceTests\\ClaimTypeSeviceTest.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:44:33.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ClaimTypeRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\ClaimTypeRepositoryTest.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceTests\\ClaimTypeRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\ClaimTypeRepositoryTest.cs",
+              "RelativeToolTip": "LifeInsuranceTests\\ClaimTypeRepositoryTest.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T09:43:16.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ClaimTypeControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\ClaimTypeControllerTest.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceTests\\ClaimTypeControllerTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\ClaimTypeControllerTest.cs",
+              "RelativeToolTip": "LifeInsuranceTests\\ClaimTypeControllerTest.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:31:42.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ClaimServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\ClaimServiceTest.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceTests\\ClaimServiceTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\ClaimServiceTest.cs",
+              "RelativeToolTip": "LifeInsuranceTests\\ClaimServiceTest.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T08:54:05.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ClaimRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\ClaimRepositoryTest.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceTests\\ClaimRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\ClaimRepositoryTest.cs",
+              "RelativeToolTip": "LifeInsuranceTests\\ClaimRepositoryTest.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T10:05:17.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ClaimControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\ClaimControllerTest.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceTests\\ClaimControllerTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\ClaimControllerTest.cs",
+              "RelativeToolTip": "LifeInsuranceTests\\ClaimControllerTest.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAIwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T06:51:37.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20241023060209_init.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023060209_init.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Migrations\\20241023060209_init.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023060209_init.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Migrations\\20241023060209_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T06:02:10.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\UnitTest1.cs",
+              "RelativeToolTip": "LifeInsuranceTests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T05:15:43.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "LifeInsuranceTests.csproj",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\LifeInsuranceTests.csproj",
+              "RelativeDocumentMoniker": "LifeInsuranceTests\\LifeInsuranceTests.csproj",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceTests\\LifeInsuranceTests.csproj",
+              "RelativeToolTip": "LifeInsuranceTests\\LifeInsuranceTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T05:25:03.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20241023151239_policy.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023151239_policy.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Migrations\\20241023151239_policy.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023151239_policy.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Migrations\\20241023151239_policy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:12:39.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "LifeInsuranceApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\LifeInsuranceApplication.csproj",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\LifeInsuranceApplication.csproj",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\LifeInsuranceApplication.csproj",
+              "RelativeToolTip": "LifeInsuranceApplication\\LifeInsuranceApplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T15:02:24.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20241023150508_claim.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023150508_claim.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Migrations\\20241023150508_claim.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023150508_claim.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Migrations\\20241023150508_claim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T15:05:08.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20241023100555_user.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023100555_user.cs",
+              "RelativeDocumentMoniker": "LifeInsuranceApplication\\Migrations\\20241023100555_user.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\LifeInsuranceApplication\\LifeInsuranceApplication\\Migrations\\20241023100555_user.cs",
+              "RelativeToolTip": "LifeInsuranceApplication\\Migrations\\20241023100555_user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:05:56.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

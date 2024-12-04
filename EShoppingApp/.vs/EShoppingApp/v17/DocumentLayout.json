@@ -1,0 +1,1411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\dtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\dtos\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\dtos\\cartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\contexts\\shoppingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\contexts\\shoppingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\dtos\\adminupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\dtos\\adminupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\dtos\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\dtos\\errorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\dtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\dtos\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\dtos\\usertokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\dtos\\usertokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\dtos\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\controllers\\suppliercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\repositories\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\migrations\\20241117075339_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\migrations\\20241117075339_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\migrations\\20241125071509_four.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\migrations\\20241125071509_four.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\interfaces\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\mapper\\cartprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\mapper\\cartprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\mapper\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\mapper\\customerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\mapper\\adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\mapper\\adminprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\dtos\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\interfaces\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\interfaces\\isupplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\dtos\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\dtos\\supplierdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\dtos\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\dtos\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingtest\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|solutionrelative:eshoppingtest\\userservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingtest\\orderrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|solutionrelative:eshoppingtest\\orderrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingtest\\ordercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|solutionrelative:eshoppingtest\\ordercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingtest\\orderservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|solutionrelative:eshoppingtest\\orderservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingtest\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|solutionrelative:eshoppingtest\\productrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingtest\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|solutionrelative:eshoppingtest\\productcontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingtest\\usercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|solutionrelative:eshoppingtest\\usercontrollertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingtest\\userrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|solutionrelative:eshoppingtest\\userrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\exceptions\\couldnotaddexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\exceptions\\couldnotaddexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\mapper\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\mapper\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\interfaces\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingtest\\productservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|solutionrelative:eshoppingtest\\productservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\emailservice\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\emailservice\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\emailmodels\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\emailmodels\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\emailmodels\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\emailmodels\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\emailinterface\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\emailinterface\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|solutionrelative:eshoppingtest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\exceptions\\collectionemptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\exceptions\\collectionemptyexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\mapper\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\mapper\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\mapper\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\mapper\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingtest\\customerrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D8B12A-A767-4CCA-8308-CFCC971C5F42}|EShoppingTest\\EShoppingTest.csproj|solutionrelative:eshoppingtest\\customerrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\repositories\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\repositories\\supplierrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\services\\supplierservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\mapper\\supplierprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\mapper\\supplierprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\eshoppingapp\\eshoppingapp\\models\\dtos\\customerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD996FE-826C-4006-BD6E-AE3B07DEA09A}|EShoppingApp\\EShoppingApp.csproj|solutionrelative:eshoppingapp\\models\\dtos\\customerupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 116,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Services\\OrderService.cs",
+              "RelativeToolTip": "EShoppingApp\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:51:52.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Program.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Program.cs",
+              "RelativeToolTip": "EShoppingApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T18:32:03.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShoppingContext.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Contexts\\ShoppingContext.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Contexts\\ShoppingContext.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Contexts\\ShoppingContext.cs",
+              "RelativeToolTip": "EShoppingApp\\Contexts\\ShoppingContext.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwCAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:53:08.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\CartItemDTO.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\DTOs\\CartItemDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\CartItemDTO.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\DTOs\\CartItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T13:37:50.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EShoppingApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:12:12.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Services\\UserService.cs",
+              "RelativeToolTip": "EShoppingApp\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:25:42.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Services\\CartService.cs",
+              "RelativeToolTip": "EShoppingApp\\Services\\CartService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T10:50:41.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\AdminUpdateDTO.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\DTOs\\AdminUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\AdminUpdateDTO.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\DTOs\\AdminUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:49:35.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\CartDTO.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\DTOs\\CartDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\CartDTO.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\DTOs\\CartDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:20:03.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "EShoppingApp\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:49:01.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\Order.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\Order.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:46:52.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\Customer.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:48:44.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\CartItem.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:47:32.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\LoginResponseDTO.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\DTOs\\LoginResponseDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\LoginResponseDTO.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\DTOs\\LoginResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:01:07.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:51:42.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\Product.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:46:41.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\ErrorResponseDTO.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\DTOs\\ErrorResponseDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\ErrorResponseDTO.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\DTOs\\ErrorResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:14:45.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\Supplier.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:14:52.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "EShoppingApp\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:57:50.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\DTOs\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\LoginRequestDTO.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\DTOs\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:58:15.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\UserCreateDTO.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\DTOs\\UserCreateDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\UserCreateDTO.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\DTOs\\UserCreateDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAywBQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:57:21.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\DTOs\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\CustomerDTO.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\DTOs\\CustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:39:16.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\User.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:12:25.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\DTOs\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:51:09.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Services\\TokenService.cs",
+              "RelativeToolTip": "EShoppingApp\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:41:08.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserTokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\UserTokenDTO.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\DTOs\\UserTokenDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\UserTokenDTO.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\DTOs\\UserTokenDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:22:21.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SupplierController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Controllers\\SupplierController.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Controllers\\SupplierController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Controllers\\SupplierController.cs",
+              "RelativeToolTip": "EShoppingApp\\Controllers\\SupplierController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:10:34.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "EShoppingApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:12:31.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "EShoppingApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T14:06:08.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Controllers\\CartController.cs",
+              "RelativeToolTip": "EShoppingApp\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T10:55:34.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\Admin.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T08:41:15.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241117075339_user.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Migrations\\20241117075339_user.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Migrations\\20241117075339_user.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Migrations\\20241117075339_user.cs",
+              "RelativeToolTip": "EShoppingApp\\Migrations\\20241117075339_user.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:53:39.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241125071509_four.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Migrations\\20241125071509_four.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Migrations\\20241125071509_four.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Migrations\\20241125071509_four.cs",
+              "RelativeToolTip": "EShoppingApp\\Migrations\\20241125071509_four.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:15:09.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Repositories\\CartRepository.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Repositories\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Repositories\\CartRepository.cs",
+              "RelativeToolTip": "EShoppingApp\\Repositories\\CartRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wEYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T10:40:09.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "EShoppingApp\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:02:25.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "EShoppingApp\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:27:48.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Interfaces\\ICartService.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Interfaces\\ICartService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Interfaces\\ICartService.cs",
+              "RelativeToolTip": "EShoppingApp\\Interfaces\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T10:48:48.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\Cart.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:47:18.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CartProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Mapper\\CartProfile.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Mapper\\CartProfile.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Mapper\\CartProfile.cs",
+              "RelativeToolTip": "EShoppingApp\\Mapper\\CartProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T11:51:18.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\DTOs\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\DTOs\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:37:28.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Repositories\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Repositories\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Repositories\\AdminRepository.cs",
+              "RelativeToolTip": "EShoppingApp\\Repositories\\AdminRepository.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwDwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:42:04.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CustomerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Mapper\\CustomerProfile.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Mapper\\CustomerProfile.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Mapper\\CustomerProfile.cs",
+              "RelativeToolTip": "EShoppingApp\\Mapper\\CustomerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:51:45.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AdminProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Mapper\\AdminProfile.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Mapper\\AdminProfile.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Mapper\\AdminProfile.cs",
+              "RelativeToolTip": "EShoppingApp\\Mapper\\AdminProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:34:41.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "OrderItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\OrderItemDTO.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\DTOs\\OrderItemDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\OrderItemDTO.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\DTOs\\OrderItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:37:45.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Interfaces\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "EShoppingApp\\Interfaces\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:36:47.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Services\\AdminService.cs",
+              "RelativeToolTip": "EShoppingApp\\Services\\AdminService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwCoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:57:29.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "EShoppingApp\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAA4wEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:02:30.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "EShoppingApp\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAQwEwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:57:49.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ISupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Interfaces\\ISupplierService.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Interfaces\\ISupplierService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Interfaces\\ISupplierService.cs",
+              "RelativeToolTip": "EShoppingApp\\Interfaces\\ISupplierService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:04:20.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "EShoppingApp\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAEwAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:00:26.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "EShoppingApp\\Interfaces\\IOrderService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:34:57.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\OrderItem.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:47:05.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SupplierDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\SupplierDTO.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\DTOs\\SupplierDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\SupplierDTO.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\DTOs\\SupplierDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:44:49.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AdminDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\AdminDTO.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\DTOs\\AdminDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\AdminDTO.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\DTOs\\AdminDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:26:43.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "OrderControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\OrderControllerTest.cs",
+              "RelativeDocumentMoniker": "EShoppingTest\\OrderControllerTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\OrderControllerTest.cs",
+              "RelativeToolTip": "EShoppingTest\\OrderControllerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T04:25:01.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "UserServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\UserServiceTest.cs",
+              "RelativeDocumentMoniker": "EShoppingTest\\UserServiceTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\UserServiceTest.cs",
+              "RelativeToolTip": "EShoppingTest\\UserServiceTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:37:38.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "OrderRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\OrderRepositoryTest.cs",
+              "RelativeDocumentMoniker": "EShoppingTest\\OrderRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\OrderRepositoryTest.cs",
+              "RelativeToolTip": "EShoppingTest\\OrderRepositoryTest.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:46:35.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "CustomerRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\CustomerRepositoryTest.cs",
+              "RelativeDocumentMoniker": "EShoppingTest\\CustomerRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\CustomerRepositoryTest.cs",
+              "RelativeToolTip": "EShoppingTest\\CustomerRepositoryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T09:33:25.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "OrderServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\OrderServiceTest.cs",
+              "RelativeDocumentMoniker": "EShoppingTest\\OrderServiceTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\OrderServiceTest.cs",
+              "RelativeToolTip": "EShoppingTest\\OrderServiceTest.cs",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAowKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:33:59.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ProductControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\ProductControllerTest.cs",
+              "RelativeDocumentMoniker": "EShoppingTest\\ProductControllerTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\ProductControllerTest.cs",
+              "RelativeToolTip": "EShoppingTest\\ProductControllerTest.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:39:00.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ProductRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\ProductRepositoryTest.cs",
+              "RelativeDocumentMoniker": "EShoppingTest\\ProductRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\ProductRepositoryTest.cs",
+              "RelativeToolTip": "EShoppingTest\\ProductRepositoryTest.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:52:16.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "UserControllerTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\UserControllerTest.cs",
+              "RelativeDocumentMoniker": "EShoppingTest\\UserControllerTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\UserControllerTest.cs",
+              "RelativeToolTip": "EShoppingTest\\UserControllerTest.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEAAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T14:39:23.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "EShoppingApp\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:08:30.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "SupplierRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Repositories\\SupplierRepository.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Repositories\\SupplierRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Repositories\\SupplierRepository.cs",
+              "RelativeToolTip": "EShoppingApp\\Repositories\\SupplierRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:56:11.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "SupplierService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Services\\SupplierService.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Services\\SupplierService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Services\\SupplierService.cs",
+              "RelativeToolTip": "EShoppingApp\\Services\\SupplierService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA5wB8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:05:35.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "SupplierProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Mapper\\SupplierProfile.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Mapper\\SupplierProfile.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Mapper\\SupplierProfile.cs",
+              "RelativeToolTip": "EShoppingApp\\Mapper\\SupplierProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:54:41.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Services\\CustomerService.cs",
+              "RelativeToolTip": "EShoppingApp\\Services\\CustomerService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:29:50.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "CustomerUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\CustomerUpdateDTO.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Models\\DTOs\\CustomerUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Models\\DTOs\\CustomerUpdateDTO.cs",
+              "RelativeToolTip": "EShoppingApp\\Models\\DTOs\\CustomerUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T07:12:00.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "EShoppingApp\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T06:24:16.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "EShoppingApp\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:15:02.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UserRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\UserRepositoryTest.cs",
+              "RelativeDocumentMoniker": "EShoppingTest\\UserRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\UserRepositoryTest.cs",
+              "RelativeToolTip": "EShoppingTest\\UserRepositoryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T11:57:56.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CouldNotAddException.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Exceptions\\CouldNotAddException.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Exceptions\\CouldNotAddException.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Exceptions\\CouldNotAddException.cs",
+              "RelativeToolTip": "EShoppingApp\\Exceptions\\CouldNotAddException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:08:13.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "OrderProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Mapper\\OrderProfile.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Mapper\\OrderProfile.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Mapper\\OrderProfile.cs",
+              "RelativeToolTip": "EShoppingApp\\Mapper\\OrderProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:31:38.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Services\\ProductService.cs",
+              "RelativeToolTip": "EShoppingApp\\Services\\ProductService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:25:55.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Interfaces\\ITokenService.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Interfaces\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Interfaces\\ITokenService.cs",
+              "RelativeToolTip": "EShoppingApp\\Interfaces\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:23:39.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ProductServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\ProductServiceTest.cs",
+              "RelativeDocumentMoniker": "EShoppingTest\\ProductServiceTest.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\ProductServiceTest.cs",
+              "RelativeToolTip": "EShoppingTest\\ProductServiceTest.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAYwEEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:47:24.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\EmailService\\EmailSender.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\EmailService\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\EmailService\\EmailSender.cs",
+              "RelativeToolTip": "EShoppingApp\\EmailService\\EmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:14:31.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\EmailModels\\Message.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\EmailModels\\Message.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\EmailModels\\Message.cs",
+              "RelativeToolTip": "EShoppingApp\\EmailModels\\Message.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAArwAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:07:05.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "EmailConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\EmailModels\\EmailConfiguration.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\EmailModels\\EmailConfiguration.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\EmailModels\\EmailConfiguration.cs",
+              "RelativeToolTip": "EShoppingApp\\EmailModels\\EmailConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:05:33.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\EmailInterface\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\EmailInterface\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\EmailInterface\\IEmailSender.cs",
+              "RelativeToolTip": "EShoppingApp\\EmailInterface\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T11:03:13.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\appsettings.json",
+              "RelativeDocumentMoniker": "EShoppingApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\appsettings.json",
+              "RelativeToolTip": "EShoppingApp\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T18:30:35.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "EShoppingApp\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwD0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:02:41.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "EShoppingTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingTest\\UnitTest1.cs",
+              "RelativeToolTip": "EShoppingTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:41:08.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CollectionEmptyException.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Exceptions\\CollectionEmptyException.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Exceptions\\CollectionEmptyException.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Exceptions\\CollectionEmptyException.cs",
+              "RelativeToolTip": "EShoppingApp\\Exceptions\\CollectionEmptyException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:07:46.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Mapper\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Mapper\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Mapper\\ProductProfile.cs",
+              "RelativeToolTip": "EShoppingApp\\Mapper\\ProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:32:17.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Mapper\\UserProfile.cs",
+              "RelativeDocumentMoniker": "EShoppingApp\\Mapper\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EShoppingApp\\EShoppingApp\\Mapper\\UserProfile.cs",
+              "RelativeToolTip": "EShoppingApp\\Mapper\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T15:31:50.735Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 50,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

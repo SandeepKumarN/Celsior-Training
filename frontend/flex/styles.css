@@ -1,0 +1,84 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.product-container{
+    position: relative;
+    height: 2000px;
+    background:linear-gradient(white,skyblue,white);
+}
+
+.product-container .head{
+    margin-left: 400px;
+}
+
+.product-container .head h2{
+font-size: 60px;
+font-family:cursive;
+font-style: italic;
+color: hotpink;
+text-shadow: 2px 2px 2px black;
+}
+
+.subcont1{
+    width: 1200px;
+    /* background-color: aqua; */
+    position: absolute;
+    margin-left: 120px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.subcont1 img{
+    margin-top: 5px;
+    margin-left: 4px;
+  height: 400px;
+  width: 300px;
+  border-radius: 50px;
+}
+
+.img1,.img2,.img3{
+    height: 420px;
+    width: 310px;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 2px 2px 2px 8px gold;
+}
+
+.subcont2{
+    margin-top: 600px;
+    width: 1200px;
+    /* background-color: aqua; */
+    position: absolute;
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.subcont2 img{
+    margin-top: 5px;
+    margin-left: 4px;
+  height: 400px;
+  width: 300px;
+  border-radius: 50px;
+}
+
+.subcont3{
+    margin-top: 1200px;
+    width: 1200px;
+    /* background-color: aqua; */
+    position: absolute;
+    margin-left: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.subcont3 img{
+    margin-top: 5px;
+    margin-left: 4px;
+  height: 400px;
+  width: 300px;
+  border-radius: 50px;
+}

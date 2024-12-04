@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Display with Cart</title>
+    <!-- Bootstrap CSS (for styling the card layout) -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Tailwind CSS for additional styling (optional, can be removed) -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom styles (optional) */
+        .product-card {
+            margin: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .product-image {
+            height: 200px;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container mt-5">
+    <h1 class="text-center mb-4">Product List</h1>
+    <div class="row" id="product-container">
+        <!-- Products will be displayed here -->
+    </div>
+</div>
+
+<!-- Modal to show cart confirmation -->
+<div class="modal fade" id="cartModal" tabindex="-1" aria-labelledby="cartModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="cartModalLabel">Item Added to Cart</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                The product has been added to your cart.
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" onclick="viewCart()">View Cart</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Bootstrap JS (for modal functionality) -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
+<script>
+    // Fetch products from the API
+    const fetchProducts = async () => {
+        try {
+
+            const response = await fetch('https://dummyjson.com/products');
+            const data = await response.json();
+            const products = data.products;
+
+            // Get the container to display products
+            const productContainer = document.getElementById("product-container");
+
+            products.forEach(product => {
+                const productCard = document.createElement('div');
+                productCard.classList.add('col-md-4');
+                productCard.classList.add('product-card');
+                productCard.innerHTML = `
+                    <div class="card">
+                        <img src="${product.thumbnail}" class="card-img-top product-image" alt="${product.title}">
+                        <div class="card-body">
+                            <h5 class="card-title">${product.title}</h5>
+                            <p class="card-text">${product.description}</p>
+                            <p class="card-text"><strong>$${product.price}</strong></p>
+                            <button class="btn btn-primary" onclick="addToCart(${product.id})">Add to Cart</button>
+                        </div>
+                    </div>
+                `;
+                productContainer.appendChild(productCard);
+            });
+        } catch (error) {
+            console.error("Error fetching products:", error);
+        }
+    };
+
+    // Function to handle adding a product to the cart
+    const addToCart = async (productId) => {
+        try {
+            const response = await fetch('https://dummyjson.com/carts/add', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    productId: productId,
+                    quantity: 1
+                })
+            });
+
+            const data = await response.json();
+
+            if (data) {
+                // Show the modal indicating that the item has been added to the cart
+                const cartModal = new bootstrap.Modal(document.getElementById('cartModal'));
+                cartModal.show();
+            }
+        } catch (error) {
+            console.error("Error adding product to cart:", error);
+        }
+    };
+
+    // Function to view the cart (You can implement this to show cart items)
+    const viewCart = () => {
+        // For now, you can log the cart or implement the logic for viewing the cart
+        alert("Viewing cart (this functionality can be implemented).");
+    };
+
+    // Fetch the products when the page loads
+    document.addEventListener('DOMContentLoaded', fetchProducts);
+</script>
+
+</body>
+</html>

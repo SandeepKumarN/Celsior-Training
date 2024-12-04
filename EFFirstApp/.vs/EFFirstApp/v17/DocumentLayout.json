@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sandeep.kumar\\source\\repos\\EFFirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF7C53-2936-4902-B96F-3F741B2CB293}|EFFirstApp\\EFFirstApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\effirstapp\\effirstapp\\shoppingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BF7C53-2936-4902-B96F-3F741B2CB293}|EFFirstApp\\EFFirstApp.csproj|solutionrelative:effirstapp\\shoppingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF7C53-2936-4902-B96F-3F741B2CB293}|EFFirstApp\\EFFirstApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\effirstapp\\effirstapp\\models\\supplierproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BF7C53-2936-4902-B96F-3F741B2CB293}|EFFirstApp\\EFFirstApp.csproj|solutionrelative:effirstapp\\models\\supplierproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF7C53-2936-4902-B96F-3F741B2CB293}|EFFirstApp\\EFFirstApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\effirstapp\\effirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BF7C53-2936-4902-B96F-3F741B2CB293}|EFFirstApp\\EFFirstApp.csproj|solutionrelative:effirstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF7C53-2936-4902-B96F-3F741B2CB293}|EFFirstApp\\EFFirstApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\effirstapp\\effirstapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BF7C53-2936-4902-B96F-3F741B2CB293}|EFFirstApp\\EFFirstApp.csproj|solutionrelative:effirstapp\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF7C53-2936-4902-B96F-3F741B2CB293}|EFFirstApp\\EFFirstApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\effirstapp\\effirstapp\\migrations\\20241015082523_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BF7C53-2936-4902-B96F-3F741B2CB293}|EFFirstApp\\EFFirstApp.csproj|solutionrelative:effirstapp\\migrations\\20241015082523_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF7C53-2936-4902-B96F-3F741B2CB293}|EFFirstApp\\EFFirstApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\effirstapp\\effirstapp\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BF7C53-2936-4902-B96F-3F741B2CB293}|EFFirstApp\\EFFirstApp.csproj|solutionrelative:effirstapp\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8BF7C53-2936-4902-B96F-3F741B2CB293}|EFFirstApp\\EFFirstApp.csproj|c:\\users\\sandeep.kumar\\source\\repos\\effirstapp\\effirstapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8BF7C53-2936-4902-B96F-3F741B2CB293}|EFFirstApp\\EFFirstApp.csproj|solutionrelative:effirstapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFFirstApp\\EFFirstApp\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "EFFirstApp\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFFirstApp\\EFFirstApp\\Models\\Category.cs",
+              "RelativeToolTip": "EFFirstApp\\Models\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:46:00.644Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SupplierProduct.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFFirstApp\\EFFirstApp\\Models\\SupplierProduct.cs",
+              "RelativeDocumentMoniker": "EFFirstApp\\Models\\SupplierProduct.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFFirstApp\\EFFirstApp\\Models\\SupplierProduct.cs",
+              "RelativeToolTip": "EFFirstApp\\Models\\SupplierProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:08:00.427Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241015082523_init.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFFirstApp\\EFFirstApp\\Migrations\\20241015082523_init.cs",
+              "RelativeDocumentMoniker": "EFFirstApp\\Migrations\\20241015082523_init.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFFirstApp\\EFFirstApp\\Migrations\\20241015082523_init.cs",
+              "RelativeToolTip": "EFFirstApp\\Migrations\\20241015082523_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:25:23.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFFirstApp\\EFFirstApp\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "EFFirstApp\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFFirstApp\\EFFirstApp\\Models\\Supplier.cs",
+              "RelativeToolTip": "EFFirstApp\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:48:57.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShoppingContext.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFFirstApp\\EFFirstApp\\ShoppingContext.cs",
+              "RelativeDocumentMoniker": "EFFirstApp\\ShoppingContext.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFFirstApp\\EFFirstApp\\ShoppingContext.cs",
+              "RelativeToolTip": "EFFirstApp\\ShoppingContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:20:17.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFFirstApp\\EFFirstApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EFFirstApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFFirstApp\\EFFirstApp\\Models\\Product.cs",
+              "RelativeToolTip": "EFFirstApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:07:20.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\source\\repos\\EFFirstApp\\EFFirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "EFFirstApp\\Program.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\source\\repos\\EFFirstApp\\EFFirstApp\\Program.cs",
+              "RelativeToolTip": "EFFirstApp\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwCYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T05:00:35.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

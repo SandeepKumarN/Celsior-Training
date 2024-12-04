@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\mapper\\eventprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\mapper\\eventprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\mapper\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\mapper\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +55,8 @@
       "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\interfaces\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\models\\dto\\bookingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,24 +71,8 @@
       "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\mapper\\bookingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\models\\dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\models\\dto\\eventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\interfaces\\ieventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\mapper\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\mapper\\employeeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\models\\dto\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -71,24 +83,12 @@
       "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\services\\eventservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\properties\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\properties\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|solutionrelative:eventbooking\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2694A10C-E2D1-4E5C-B9EC-2A5E57471989}|EventBooking\\EventBooking.csproj|c:\\users\\sandeep.kumar\\downloads\\celsior training\\eventbooking\\eventbooking\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,75 +114,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "EventBooking\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "EventBooking\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAwwBYAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T13:34:15.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BookingController.cs",
-              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Controllers\\BookingController.cs",
-              "RelativeDocumentMoniker": "EventBooking\\Controllers\\BookingController.cs",
-              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Controllers\\BookingController.cs*",
-              "RelativeToolTip": "EventBooking\\Controllers\\BookingController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T13:34:43.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Program.cs",
-              "RelativeDocumentMoniker": "EventBooking\\Program.cs",
-              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Program.cs",
-              "RelativeToolTip": "EventBooking\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T09:12:10.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "EventBooking\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Models\\Employee.cs",
-              "RelativeToolTip": "EventBooking\\Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T09:07:11.801Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EventController.cs",
-              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Controllers\\EventController.cs",
-              "RelativeDocumentMoniker": "EventBooking\\Controllers\\EventController.cs",
-              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Controllers\\EventController.cs",
-              "RelativeToolTip": "EventBooking\\Controllers\\EventController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T09:29:50.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EventBooking\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:12:07.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EventProfile.cs",
               "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Mapper\\EventProfile.cs",
               "RelativeDocumentMoniker": "EventBooking\\Mapper\\EventProfile.cs",
@@ -195,7 +144,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEventService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Interfaces\\IEventService.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Interfaces\\IEventService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Interfaces\\IEventService.cs",
+              "RelativeToolTip": "EventBooking\\Interfaces\\IEventService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:10:18.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EventService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Services\\EventService.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Services\\EventService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Services\\EventService.cs",
+              "RelativeToolTip": "EventBooking\\Services\\EventService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:55:19.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "EventBooking\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:49:44.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookingService.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Services\\BookingService.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Services\\BookingService.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Services\\BookingService.cs",
+              "RelativeToolTip": "EventBooking\\Services\\BookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:12:23.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "EmployeeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Mapper\\EmployeeProfile.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Mapper\\EmployeeProfile.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Mapper\\EmployeeProfile.cs",
+              "RelativeToolTip": "EventBooking\\Mapper\\EmployeeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:36:42.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EventBooking\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:34:15.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "IBookingService.cs",
               "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Interfaces\\IBookingService.cs",
               "RelativeDocumentMoniker": "EventBooking\\Interfaces\\IBookingService.cs",
@@ -203,11 +230,76 @@
               "RelativeToolTip": "EventBooking\\Interfaces\\IBookingService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T13:50:07.597Z"
+              "WhenOpened": "2024-10-21T13:50:07.597Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "EventBooking\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:46:07.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Program.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Program.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Program.cs",
+              "RelativeToolTip": "EventBooking\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:12:10.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Controllers\\EventController.cs",
+              "RelativeToolTip": "EventBooking\\Controllers\\EventController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:29:50.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Models\\Employee.cs",
+              "RelativeToolTip": "EventBooking\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T09:07:11.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "EventBooking\\Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "EventBooking\\Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:34:43.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Booking.cs",
               "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Models\\Booking.cs",
               "RelativeDocumentMoniker": "EventBooking\\Models\\Booking.cs",
@@ -219,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "BookingDTO.cs",
               "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Models\\DTO\\BookingDTO.cs",
               "RelativeDocumentMoniker": "EventBooking\\Models\\DTO\\BookingDTO.cs",
@@ -231,7 +323,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "BookingProfile.cs",
               "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Mapper\\BookingProfile.cs",
               "RelativeDocumentMoniker": "EventBooking\\Mapper\\BookingProfile.cs",
@@ -243,31 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IEmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Interfaces\\IEmployeeService.cs",
-              "RelativeDocumentMoniker": "EventBooking\\Interfaces\\IEmployeeService.cs",
-              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Interfaces\\IEmployeeService.cs",
-              "RelativeToolTip": "EventBooking\\Interfaces\\IEmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T13:49:44.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "EventBooking\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "EventBooking\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T09:46:07.658Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "EventDTO.cs",
               "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Models\\DTO\\EventDTO.cs",
               "RelativeDocumentMoniker": "EventBooking\\Models\\DTO\\EventDTO.cs",
@@ -279,31 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IEventService.cs",
-              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Interfaces\\IEventService.cs",
-              "RelativeDocumentMoniker": "EventBooking\\Interfaces\\IEventService.cs",
-              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Interfaces\\IEventService.cs",
-              "RelativeToolTip": "EventBooking\\Interfaces\\IEventService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T11:10:18.687Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EmployeeProfile.cs",
-              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Mapper\\EmployeeProfile.cs",
-              "RelativeDocumentMoniker": "EventBooking\\Mapper\\EmployeeProfile.cs",
-              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Mapper\\EmployeeProfile.cs",
-              "RelativeToolTip": "EventBooking\\Mapper\\EmployeeProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T13:36:42.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "EmployeeDTO.cs",
               "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Models\\DTO\\EmployeeDTO.cs",
               "RelativeDocumentMoniker": "EventBooking\\Models\\DTO\\EmployeeDTO.cs",
@@ -315,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Models\\Event.cs",
               "RelativeDocumentMoniker": "EventBooking\\Models\\Event.cs",
@@ -327,19 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EventService.cs",
-              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Services\\EventService.cs",
-              "RelativeDocumentMoniker": "EventBooking\\Services\\EventService.cs",
-              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Services\\EventService.cs",
-              "RelativeToolTip": "EventBooking\\Services\\EventService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T09:55:19.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Properties\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "EventBooking\\Properties\\Contexts\\AppDbContext.cs",
@@ -351,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "EventRepository.cs",
               "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Repositories\\EventRepository.cs",
               "RelativeDocumentMoniker": "EventBooking\\Repositories\\EventRepository.cs",
@@ -360,30 +392,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T09:52:55.024Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Services\\EmployeeService.cs",
-              "RelativeDocumentMoniker": "EventBooking\\Services\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Services\\EmployeeService.cs",
-              "RelativeToolTip": "EventBooking\\Services\\EmployeeService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T11:12:07.184Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "BookingService.cs",
-              "DocumentMoniker": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Services\\BookingService.cs",
-              "RelativeDocumentMoniker": "EventBooking\\Services\\BookingService.cs",
-              "ToolTip": "C:\\Users\\sandeep.kumar\\Downloads\\Celsior Training\\EventBooking\\EventBooking\\Services\\BookingService.cs",
-              "RelativeToolTip": "EventBooking\\Services\\BookingService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T11:12:23.485Z"
             },
             {
               "$type": "Document",
